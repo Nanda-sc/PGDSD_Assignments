@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f9ce024-e1b3-4fce-9bb7-6639513a23c3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/main/UserInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Reply.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Reply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/TimeStamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Upvote.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Upvote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/forum/util/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/util/Utility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/QuestionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/QuestionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/ReplyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/ReplyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/UpvoteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/UpvoteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/main/UserInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Reply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Reply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/TimeStamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Upvote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Upvote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/util/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UserService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/forum/main/DiscussionForum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/forum/util/Utility.java" />
+        <option value="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/forum/units/Reply.java" />
+        <option value="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/forum/main/DiscussionForum.java" />
+        <option value="$PROJECT_DIR$/src/com/forum/units/Question.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="forum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="forum" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="forum" type="462c0819:PsiDirectoryNode" />
+              <item name="units" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="forum" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="activiy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="discussion-forum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="discussion-forum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553450713239" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscussionForum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="com.forum.main.DiscussionForum" />
+      <module name="discussion-forum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f9ce024-e1b3-4fce-9bb7-6639513a23c3" name="Default" comment="" />
+      <created>1510103639274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510103639274</updated>
+      <workItem from="1553445651479" duration="5814000" />
+      <workItem from="1553834766107" duration="691000" />
+      <workItem from="1553968982667" duration="1372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7877000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2782324" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run Dashboard" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/discussion/forum/units/service/QuestionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/UserRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Upvote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discussion-forum.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/util/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="224" column="9" lean-forward="true" selection-start-line="224" selection-start-column="9" selection-end-line="224" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_202/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Reply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/main/DiscussionForum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
